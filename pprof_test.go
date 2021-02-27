@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/gin-gonic/gin"
+	"github.com/RadiumByte/gin"
 )
 
 func Test_getPrefix(t *testing.T) {

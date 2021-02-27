@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/gin-contrib/pprof"
-	"github.com/gin-gonic/gin"
+	"github.com/RadiumByte/gin"
+	"github.com/RadiumByte/pprof"
 )
 
 func main() {

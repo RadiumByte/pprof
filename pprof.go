@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"net/http/pprof"
 
-	"github.com/gin-gonic/gin"
+	"github.com/RadiumByte/gin"
 )
 
 const (

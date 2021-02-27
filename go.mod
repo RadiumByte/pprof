@@ -1,5 +1,3 @@
-module github.com/gin-contrib/pprof
+module github.com/RadiumByte/pprof
 
-go 1.14
-
-require github.com/gin-gonic/gin v1.6.3
+go 1.15
